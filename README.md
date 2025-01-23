@@ -7,7 +7,7 @@
 
 
 
-![Natan GitHub stats](https://github-readme-stats.vercel.app/api?username=natanpardini&show_icons=true&theme=radical)
+![Natan GitHub stats](https://github-readme-stats.vercel.app/api?username=natanpardini&show_icons=true&theme=dracula)
 
 ## Tecnologias que uso no meu dia :
 <div style="display: inline_block"><br/>
